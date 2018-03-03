@@ -1,6 +1,6 @@
 {
   "name": "riot-vigilante",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal riot.js observable management library",
   "main": "vigilante.js",
   "repository": "https://github.com/jantuomi/vigilante",
