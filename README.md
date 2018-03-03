@@ -9,7 +9,7 @@ For instructions, see the short example below or a full example [here](https://g
 ## Get it
 
 ```shell
-yarn install vigilante
+yarn add vigilante
 ```
 
 ## Example
