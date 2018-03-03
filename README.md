@@ -4,6 +4,8 @@
 
 Store all your observables in one place. `Vigilante` consists only of one function, `vigilante.observe(keyword)`, that is used to get an observable from the store.
 
+For instructions, see the short example below or a full example [here](https://github.com/jantuomi/riot-parcel-example).
+
 ## Get it
 
 ```shell
